@@ -46,7 +46,8 @@ text to change how the game works, allowing for creative and unconventional solu
 ### Notes/Assumptions
 
 * Video demos of team members playing the game can be found under doc/presentation_final
-    * Interesting video files: DEMO VIDEO.mp4 and Dynamic_Level_Demo_Video.mp4
+    * Interesting video files: Dynamic_Level_Demo_Video.mp4 and Dutilleul The Wall Phaser.mp4
+    * Authoring environmemnt UI: AddingEmptyLayers_Divyansh.mp4
 
 * Team responsibilities and design decisions are outlined under doc/DESIGN.md
 
